@@ -1,0 +1,14 @@
+安装cuda cudnn
+
+安装torch torchversion
+地址：https://download.pytorch.org/whl/torch_stable.html
+pip pywin32
+
+手机：
+开发者模式+调试模式
+
+启动scrcpy
+os.system("scrcpy --max-size 960")
+
+在scrcpy 目录下，cmd查看设备ID
+adb devices
